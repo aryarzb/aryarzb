@@ -1,0 +1,12 @@
+
+{
+  "username": "aryarzb",
+  "name": "Arya Rouzbahani",
+  "role": "Backend Developer and Computer Engineering Student",
+  "location": "Iran",
+  "status": "Building backend systems, learning how computers and networks work, and exploring cybersecurity and AI.",
+  "website": "https://github.com/aryarzb",
+  "focus": "Backend development · Python · Django · SQL · Networking · Cybersecurity · AI/ML",
+  "skills": ["Python","Django","Django REST Framework","SQL","SQLite","Git","GitHub","Linux","C","C++","Java","JavaFX","HTML","CSS","React"],
+  "featured_repos": ["AutoMarket", "Watch2Gether", "planets-physics", "AlgoVis"]
+}
